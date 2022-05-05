@@ -4,17 +4,19 @@ body {
     height: 100%;
 }
 
-.wrapper {
-    width: 800px;
-    margin: 30px auto;
-    color: white;
-    text-align: center;
-}
+
 h1, h2, h3 {
     font-family: 'Roboto', sans-serif;
     font-weight: 100;
     font-size: 2em;
     text-transform: uppercase;
+}
+
+.wrapper {
+    width: 800px;
+    margin: 30px auto;
+    color: white;
+    text-align: center;
 }
 
 #seconds, #tens {
